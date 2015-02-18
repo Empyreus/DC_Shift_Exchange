@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DCShiftExchange.iml" filepath="$PROJECT_DIR$/DCShiftExchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/DC_Shift_Exchange.iml" filepath="$PROJECT_DIR$/DC_Shift_Exchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check/check.iml" filepath="$PROJECT_DIR$/check/check.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".MyActivity" android:id="@+id/teaser">
+
+    <ImageButton android:id="@+id/runCommand" android:layout_width="@dimen/round_button_diameter"
+        android:layout_height="@dimen/round_button_diameter" android:layout_gravity="end|bottom"
+        android:layout_marginBottom="@dimen/add_button_margin"
+        android:layout_marginEnd="@dimen/add_button_margin" android:tint="@android:color/white"
+        android:src="@android:drawable/ic_input_add" android:background="@drawable/oval"
+        tools:ignore="RtlCompat" />
+
+
+</FrameLayout>

@@ -4,7 +4,7 @@
     <!-- Old theme
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
     -->
-        <!-- Customize your theme here. -->
+    <!-- Customize your theme here. -->
     <!-- New Theme -->
     <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
         <item name="colorPrimary">@color/primary</item>

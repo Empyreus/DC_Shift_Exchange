@@ -1,14 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <!-- Base application theme. -->
-    <!-- Old theme
-    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-    -->
-        <!-- Customize your theme here. -->
-    <!-- New Theme -->
     <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:navigationBarColor">@color/primary</item>
     </style>
-
 </resources>
